@@ -2,7 +2,7 @@ JOB SEARCH WEBSITE
 
 Overall Description:
 
-                A job searching website is a platform that connects job seekers with employers. The website allows job seekers to create a profile, search for job openings, and apply for jobs, while also providing employers with a platform to post job openings and search for potential candidates. The website may also include features such as resume and cover letter management, email notifications, and messaging between job seekers and employers.
+A job searching website is a platform that connects job seekers with employers. The website allows job seekers to create a profile, search for job openings, and apply for jobs, while also providing employers with a platform to post job openings and search for potential candidates. The website may also include features such as resume and cover letter management, email notifications, and messaging between job seekers and employers.
 
 Databases:
 
